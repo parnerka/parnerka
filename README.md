@@ -1,0 +1,5 @@
+- 👋 Hi, Pranav
+- 👀 I’m interested in Machine Learning, Deep Learning, Data Science, and Computer Vision
+- 🌱 I’m currently learning NLP
+- 📫 How to reach me: LinkedIn/Email
+- 🎸 I'm also a songwriter/guitarist on the side!
