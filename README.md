@@ -1,5 +1,7 @@
 - 👋 Hi, I'm Pranav
-- 👀 I’m interested in Machine Learning, Deep Learning, Data Science, and Computer Vision
-- 🌱 I’m currently learning NLP
+- 🤓 I’m interested in Machine Learning, Deep Learning, Data Science, and Computer Vision
+- 🌱 I’m currently learning more about NLP, GenAI, and MLOps
 - 📫 How to reach me: LinkedIn/Email
+- 🌐 Website: [https://parnerka.github.io/](https://parnerka.github.io/)
 - 🎸 I'm also a songwriter/guitarist on the side!
+- 👀 <b>I'm actively looking for Full-Time ML Engineer/Data Scientist roles :) </b>
